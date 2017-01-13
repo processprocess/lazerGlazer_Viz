@@ -1,0 +1,26 @@
+{
+  "name": "lazerGlazer_Viz",
+  "description": "therapeutic psychedelia experiment in web VR",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "budo --live --verbose --port 3000 --open",
+    "deploy": "ghpages",
+    "ghpages": "ghpages"
+  },
+  "devDependencies": {
+    "budo": "^7.0.0",
+    "ghpages": "0.0.3",
+    "nodemon": "^1.11.0"
+  },
+  "keywords": [
+    "visualizer",
+    "loop",
+    "psychedelic",
+    "aframe",
+    "aframe-example",
+    "aframe-boilerplate",
+    "aframe-scene",
+    "webvr",
+    "vr"
+  ]
+}
